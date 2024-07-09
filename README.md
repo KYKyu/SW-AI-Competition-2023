@@ -1,1 +1,1 @@
-# -SWUniv-Joint-AI-Competition-2023
+# SWUniv-Joint-AI-Competition-2023
